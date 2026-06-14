@@ -195,31 +195,7 @@ This project transforms the critical vulnerability of Mercedes‑AMG’s new axi
 
 **We await your gratitude for our idea via the following payment details:**
 
-### Payment Details (Bank Transfer)
-
-**Beneficiary:**  
-Terentyev Alexey Vladimirovich
-
-**Account number:**  
-4081 7810 7000 0198 1788
-
-**BIC:**  
-044 525 974
-
-**Beneficiary Bank:**  
-JSC "TBank"
-
-**Correspondent account:**  
-3010 1810 1452 5000 0974
-
-**Purpose of payment:**  
-Funds transfer under agreement No. 5029 2753 68, Terentyev Alexey Vladimirovich. VAT exempt.
-
-**INN:**  
-7710 1406 79
-
-**KPP:**  
-771 301 001
+### 
 
 **Contact email for any questions:**  
 **totalprotocol@proton.me**
