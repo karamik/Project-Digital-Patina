@@ -185,8 +185,6 @@ This project transforms the critical vulnerability of Mercedes‑AMG’s new axi
 - **A patent‑landscape that locks AMG’s uniqueness for a decade.**
 
 **We await your gratitude for our idea via the following payment details:**
-
-### 
 **Contact email for any questions:**  
 **totalprotocol@proton.me**
 
